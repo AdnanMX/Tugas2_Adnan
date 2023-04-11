@@ -1,0 +1,7 @@
+adnanmaulana\pencatatan\buku\util\DatabaseUtil.class
+adnanmaulana\pencatatan\buku\service\impl\BookServiceImpl.class
+adnanmaulana\pencatatan\buku\repository\impl\BookRepositoryImpl.class
+adnanmaulana\pencatatan\buku\App.class
+adnanmaulana\pencatatan\buku\service\BookService.class
+adnanmaulana\pencatatan\buku\repository\BookRepository.class
+adnanmaulana\pencatatan\buku\entity\Book.class
